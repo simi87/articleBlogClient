@@ -188,4 +188,3 @@ CTRL-X and save
 Source the file
 
     source ~/.bash_profile
-
